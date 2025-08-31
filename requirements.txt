@@ -1,2 +1,9 @@
-streamlit
-openai
+streamlit>=1.28.0
+openai>=1.40.0
+pathlib
+json
+os
+datetime
+pathlib
+tempfile
+base64
